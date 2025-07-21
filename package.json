@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-qrcode-nodejs-lesson",
+  "version": "1.0.0",
+  "description": "e-commerce toolkit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
